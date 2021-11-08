@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main (){
-	printf("Chu Quoc Chinh 20207660 ");
+	printf("Tao la nam")
 	return 0;
 }
